@@ -1,0 +1,13 @@
+/*
+Theme Name: Some Fancy Named Theme
+Description: Child theme based on Twenty Seventeen
+Author: Maysa Tani
+Version: 1.0
+Template: twentyseventeen
+*/
+
+@import url('../twentyseventeen/style.css');
+
+.page-title {
+color: #8BC34A;
+}
